@@ -1,0 +1,77 @@
+/* src/index.css */
+
+/* Estilos gerais da aplicação */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Barra de navegação */
+  .navbar {
+    background-color: #2196F3;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    margin: 10px;
+  }
+  
+  /* Títulos da página */
+  .page-title {
+    font-size: 24px;
+    margin: 20px 0;
+  }
+  
+  /* Lista de propriedades */
+  .property-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .property-list-item {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Lista de aluguéis */
+  .rental-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .rental-list-item {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Botões */
+  .button {
+    background-color: #2196F3;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #1769AA;
+  }
+  
